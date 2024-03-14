@@ -1,5 +1,1 @@
-### webpack+babel+less
-
-|#|#|
-|---------|---------|
-|1,|loader|
+### Demo-Webpack-Less-Babel
